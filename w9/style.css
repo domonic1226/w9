@@ -1,0 +1,58 @@
+.container header {
+	background-color: #D93234;
+}
+.container #hero {
+	background-color: #4BF0CF;
+}
+ul li a {
+}
+.container header .container.header.nav {
+}
+
+
+ul li a {
+}
+.container #about .text_column {
+}
+.container #about  {
+	background-image: url(images/%E9%A5%85%E9%A0%AD.jpg), -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(23,129,177,1.00) 100%);
+	background-image: url(images/%E9%A5%85%E9%A0%AD.jpg), -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(23,129,177,1.00) 100%);
+	background-image: url(images/%E9%A5%85%E9%A0%AD.jpg), -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(23,129,177,1.00) 100%);
+	background-image: url(images/%E9%A5%85%E9%A0%AD.jpg), linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(23,129,177,1.00) 100%);
+}
+footer .footer_column .cards {
+	background-image: url(images/%E8%B1%86%E6%BC%BF.jpg);
+
+}
+.container #contact .hero_header {
+	background-color: #B02527;
+	background-image: url(images/%E8%B1%86%E6%BC%BF.jpg);
+
+
+}
+.container #contact .button {
+	background-image: url(images/%E9%A5%85%E9%A0%AD.jpg);
+}
+
+
+.container .banner .parallax {
+	background-image: url(images/%E9%A5%85%E9%A0%AD.jpg);
+}
+.container #contact .hero_header {
+	background-image: url(images/%E5%B0%81%E9%9D%A22.jpg);
+
+}
+
+.container .copyright {
+	background-color: #000000;
+}
+.container #contact {
+	background-image: url(images/%E5%B0%81%E9%9D%A22.jpg);
+}
+
+
+
+
+
+.container #about .text_column {
+}
